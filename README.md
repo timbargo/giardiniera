@@ -9,8 +9,9 @@ Kathmandu
 Nosferatu
 
 So this is a Pokemon knockoff and because I know so much Pokemon it will have mechanics that work exactly like the Pokemon do.  
-The user enters the name of a, a uh, *thing*, like they name of the creature, creature stats are generated from the name. The same name will generate the same stats if input more than once, it is consistent.  
-There will be some combat system of rival *yet to be named things* to compete
+The user enters the name of a, a uh, *thing*, the name of the creature. The creature stats are generated from the name. The same name will generate the same stats if input more than once, it is consistent.  
+There will be some combat system for rival *yet to be named things* to compete.     
+Some "AI" opponent will be implemented.
 
 Basic stats  
 HP: your usual  hit points  
